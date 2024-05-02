@@ -1,0 +1,12 @@
+.StatistcsList {
+  padding: 0;
+  margin: 0;
+  width: 200px;
+  text-align: center;
+}
+
+.ListItem {
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: space-between;
+}
